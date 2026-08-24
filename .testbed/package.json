@@ -1,0 +1,12 @@
+{
+  "name": "@aerobeat/web-template-vendor-testbed",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "echo \"Add a repo-local demo command when this vendor adapter needs browser inspection.\"",
+    "serve": "echo \"Define host, port, cache busting, QR/link output, served roots, and secure-context handling before mobile validation.\"",
+    "test": "echo \"Add vendor adapter tests when this template becomes a concrete repo.\"",
+    "test:browser": "echo \"Add Playwright browser tests only when this repo owns browser-visible behavior.\""
+  }
+}
