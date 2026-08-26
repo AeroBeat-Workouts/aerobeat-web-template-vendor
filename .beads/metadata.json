@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "aerobeat_web_template_vendor",
+  "project_id": "0978ff60-564c-4604-b279-7f8498e3b9a4"
+}
